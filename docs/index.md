@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <title>yutisha org</title>
 <meta charset="UTF-8">
