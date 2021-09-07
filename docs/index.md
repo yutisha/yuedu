@@ -1,10 +1,9 @@
 <html lang="en">
-<title>yutisha org</title>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+   <head><title>yutisha org</title></head>
 <body>
-
 <!-- Header -->
 <header class="w3-display-container w3-content w3-center" style="max-width:1500px">
   <div class="w3-display-middle w3-padding-large w3-border w3-wide w3-text-light-grey w3-center">
